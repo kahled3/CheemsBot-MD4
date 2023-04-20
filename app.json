@@ -1,24 +1,7 @@
 {
-  "name": "🔱 𝚁𝚊𝚒𝚣𝚎𝚕 𝙶𝚎𝚘𝚛𝚐𝚎 🔱",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD4",
-  "logo": "https://telegra.ph/file/39272916fd98efa5fec86.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ],
-   "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
+  "name": "dylux-fg",
+  "description": "Customizable WhatsApp Bot",
+  "repository": "https://github.com/FG98F/dylux-fg",
+  "logo": "https://i.ibb.co/dG6rm49/fg-logo.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "dylux-bot-md", "dylux-bot"]
 }
